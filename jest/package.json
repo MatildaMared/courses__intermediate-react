@@ -9,7 +9,7 @@
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "test": "jest",
     "test:watch": "jest --watch",
-    "script:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage"
   },
   "author": "Brian Holt <btholt+citr-v7-project@gmail.com>",
   "license": "Apache-2.0",
